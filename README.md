@@ -84,6 +84,9 @@ O frontend estará disponível em http://localhost:3000.
 
 Agora a aplicação está configurada e pronta para uso!
 
+<img width="598" alt="Captura de Tela 2024-11-04 às 15 15 49" src="https://github.com/user-attachments/assets/1da61845-ae4a-43b8-acbd-08a0993c266a">
+
+
 
 
 
